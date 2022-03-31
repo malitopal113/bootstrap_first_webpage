@@ -1,0 +1,35 @@
+/* #container {width: 760px; margin: 0 auto; }  
+class="nav-link active text-light" aria-current="page" */
+/* FOR HOMEPAGE */
+body{
+    background-color: #E9ECEF;
+}
+#nav_bar a{
+    font:16px bold #DCDCDC;
+}
+#nav_bar a:hover{
+    
+    color:brown;
+
+}
+
+#home_list{
+    list-style-position: inside;
+     width: 200px; height: 300px; 
+     margin: 0 auto;
+}
+
+#for_link a{
+    text-decoration: none;
+    color: crimson;
+}
+
+
+#for_link a:hover{
+    text-decoration:underline;
+    color:darkblue;
+    font:bold;
+}
+
+/* FOR PRODUCTS PAGE */
+
